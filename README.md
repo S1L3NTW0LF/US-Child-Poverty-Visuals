@@ -1,4 +1,4 @@
-# US Poverty Tableau Visuals
+# US Poverty Visuals (Tableau)
 #### The purpose of this visual was to investigate child poverty across states to see what the differences were and where it is worst. 
 
 Shows child poverty across states and highlights the worst state, Mississippi in orange, and the best state, Connecticut in blue. The purpose of this visual was to show how large the difference between child poverty levels between states are.   
